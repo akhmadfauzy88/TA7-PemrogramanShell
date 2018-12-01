@@ -1,0 +1,5 @@
+[ggg] 
+ path = /home/pi/coba 
+ browseable = yes 
+ guest ok = yes 
+ writeable = yes
