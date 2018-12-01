@@ -1,4 +1,3 @@
-# TA7-PemrogramanShell
+# Tugas Besar-PemrogramanShell
 
-Aplikasi shell untuk menampilkan animasi, update, dan upgrade aplikasi Linux <br/>
-Dibuat di Debian WSL ( Windows 10 )
+Aplikasi shell untuk mengkonfigurasi samba server pada raspberry pi 3 <br/>
